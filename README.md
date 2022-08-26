@@ -1,6 +1,6 @@
 # Community WebSite Example
 
-This project is about learning Spring Boot via examples.
+This project is about Community Web Site via Spring Boot.
 
 # Project spec
 
